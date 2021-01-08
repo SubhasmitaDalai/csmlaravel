@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'museo_sans_rounded700';
+    src: url('../fonts/9939-webfont.woff2') format('woff2'),
+         url('../fonts/9939-webfont.woff') format('woff'),
+		 url('../fonts/9939.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'museo_sans_cyrl100';
+    src: url('../fonts/museosanscyrl-webfont.woff2') format('woff2'),
+         url('../fonts/museosanscyrl-webfont.woff') format('woff'),
+         url('../fonts/MuseoSansCyrl.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'museo_sans_rounded300';
+    src: url('../fonts/9938-webfont.woff2') format('woff2'),
+         url('../fonts/9938-webfont.woff') format('woff'),
+         url('../fonts/9938.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
